@@ -2,5 +2,5 @@
 
 This is my very first blog post !!!
 
-Picture of myself and a mate
-![picture](images/IMG_1103.JPG)
+Here is a picture of myself and a mate
+![](/images/IMG_1103.JPG "Me and a friend")
