@@ -2,5 +2,5 @@
 
 This is my very first blog post !!!
 
-Here is a picture of myself and a mate
-![](/images/IMG_1103.JPG "Me and a friend")
+Here is a picture of me surfing
+![](/images/johnjohnflorence42.jpg "Just kidding it's John John Florence")
