@@ -7,23 +7,13 @@ Fastai workbook progress:
 | Notebook | Completed/Not Completed |
 |-|-|
 | Notebook00 | **Completed** |
-|-|-|
 | Notebook01 | **Completed** |
-|-|-|
 | Notebook02 | **Completed** |
-|-|-|
 | Notebook03 | **Completed** |
-|-|-|
 | Notebook04 | **Completed** |
-|-|-|
 | Notebook05 | **Completed** |
-|-|-|
 | Notebook06 | **Completed** |
-|-|-|
 | Notebook07 | **Completed** |
-|-|-|
 | Notebook08 | **Completed** |
-|-|-|
 | Notebook09 | **Completed** |
-|-|-|
 | Notebook10 | **Completed** |
