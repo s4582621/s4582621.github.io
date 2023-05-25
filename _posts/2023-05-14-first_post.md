@@ -1,5 +1,9 @@
 # *Hello* World
 
+```python
+print("Hello Blog my name is Benjamin Gunn")
+```
+
 This is my very first blog post !!!
 
 Here is a picture of me surfing
